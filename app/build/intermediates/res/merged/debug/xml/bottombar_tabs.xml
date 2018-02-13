@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs >
+        <tab
+          id="@+id/home_f"
+           icon="@drawable/shabka"
+           title="home" />
+        <tab
+           id="@+id/search_f"
+           icon="@drawable/shabka"
+       title="search" />
+        <tab
+            id="@+id/profile_f"
+            icon="@drawable/shabka"
+            title="profile" />
+    </tabs>

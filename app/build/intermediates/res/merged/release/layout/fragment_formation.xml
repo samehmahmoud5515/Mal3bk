@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ecf7f1"
+    android:gravity="center"
+    android:layoutDirection="rtl"
+    android:orientation="vertical">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="18.67dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ListView
+            android:id="@+id/formation_list"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="377.33dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="18.67dp"
+        android:background="@drawable/formationchildstyle"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/formation_add_new_player"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingBottom="8dp"
+                android:text="أضافة لاعب جديد"
+                android:textColor="#575757"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="202dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/formation_btn_add_new_player"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="&#xf067;"
+                android:textColor="#008542" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layoutDirection="rtl"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="174dp"
+            android:layout_height="38dp"
+            android:background="#575757"
+            android:gravity="center"
+            android:layoutDirection="rtl"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/formation_icon_main_page"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="&#xf064;"
+                    android:textColor="#ffffff"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5.33dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/formation_btn_main_page"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#575757"
+                    android:paddingBottom="8dp"
+                    android:text="العوده للرئيسيه"
+                    android:textAlignment="viewStart"
+                    android:textSize="16dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="174dp"
+            android:layout_height="38dp"
+            android:layout_marginRight="21dp"
+            android:background="#575757"
+            android:gravity="center"
+            android:layoutDirection="rtl"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/formation_icon_share"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="&#xf1e0;"
+                    android:textColor="#ffffff"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5.33dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/formation_btn_share"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#575757"
+                    android:paddingBottom="8dp"
+                    android:text="مشاركة"
+                    android:textAlignment="viewStart"
+                    android:textSize="16dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\slider_menu.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\menu\\slider_menu.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_actions_menu.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\menu\\chat_actions_menu.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menus.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\menu\\menus.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_bottom_navigation.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\menu\\menu_bottom_navigation.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mal3bk.iml" filepath="$PROJECT_DIR$/Mal3bk.iml" />
+      <module fileurl="file://C:\Users\MohamedKotb\Desktop\Mal3bk\Mal3bk-master.iml" filepath="C:\Users\MohamedKotb\Desktop\Mal3bk\Mal3bk-master.iml" />
+      <module fileurl="file://D:\SAMEH2\Mal3bk-master\Mal3bk-master\Mal3bklast.iml" filepath="D:\SAMEH2\Mal3bk-master\Mal3bk-master\Mal3bklast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

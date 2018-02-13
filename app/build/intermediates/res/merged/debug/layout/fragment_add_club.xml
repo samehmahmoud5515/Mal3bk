@@ -1,0 +1,191 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.logicdesigns.mohammed.mal3bklast.fragments.AddClubFragment">
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:paddingLeft="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_vertical_margin"
+        android:layout_width="match_parent"
+        android:id="@+id/scrollViewClub"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/playName_et"
+                    android:layout_width="match_parent"
+                    android:shadowColor="@color/colorPrimaryDark"
+                    android:textColorLink="@color/colorPrimaryDark"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorPrimaryDark"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:gravity="center_horizontal"
+                    android:hint="اسم الملعب"/>
+
+
+            <EditText
+                android:id="@+id/price_et"
+                android:layout_width="match_parent"
+                android:shadowColor="@color/colorPrimaryDark"
+                android:textColorLink="@color/colorPrimaryDark"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:textColorHint="@color/colorPrimaryDark"
+                android:textColorHighlight="@color/colorPrimaryDark"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center_horizontal"
+                android:hint="سعر للساعة"/>
+
+            <EditText
+                android:id="@+id/details_et"
+                android:layout_width="match_parent"
+                android:shadowColor="@color/colorPrimaryDark"
+                android:textColorLink="@color/colorPrimaryDark"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:textColorHint="@color/colorPrimaryDark"
+                android:textColorHighlight="@color/colorPrimaryDark"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center_horizontal"
+                android:hint="التفاصيل"/>
+
+                <EditText
+                    android:id="@+id/address_et"
+                    android:layout_width="match_parent"
+                    android:shadowColor="@color/colorPrimaryDark"
+                    android:textColorLink="@color/colorPrimaryDark"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorPrimaryDark"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:gravity="center_horizontal"
+                    android:hint="عنوان الملعب"/>
+
+            <Button
+                android:id="@+id/selectType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/rounded_with_effect"
+                android:gravity="center"
+                android:text="اختار نوع الملعب"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/selectDoshPanio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/rounded_with_effect"
+                android:gravity="center"
+                android:text="اختار خدمات الملعب"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/selectground"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/rounded_with_effect"
+                android:gravity="center"
+                android:text="اختار ارضية الملعب"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/select_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/rounded_with_effect"
+                android:gravity="center"
+                android:text="اختار المدينة"
+
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp" />
+
+
+            <fragment
+                android:id="@+id/place_autocomplete_fragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:name="com.google.android.gms.location.places.ui.SupportPlaceAutocompleteFragment"
+                />
+
+            <fragment
+                android:id="@+id/map"
+                android:name="com.logicdesigns.mohammed.mal3bklast.fragments.WorkaroundMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                tools:context="com.example.mapwithmarker.MapsMarkerActivity" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/addPlayground_btn"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/layout_registerground_addcartbtn_bg"
+                    android:text="اضافة ملعب"
+                    android:textAllCaps="false"
+                    android:layout_marginEnd="2dp"
+                    android:layout_marginStart="2dp"
+                    android:textSize="24sp" />
+
+
+                <Button
+                    android:id="@+id/back_btn"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/layout_registerground_addcartbtn_bg"
+                    android:text="إلغاء "
+                    android:layout_marginEnd="2dp"
+                    android:layout_marginStart="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="24sp" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

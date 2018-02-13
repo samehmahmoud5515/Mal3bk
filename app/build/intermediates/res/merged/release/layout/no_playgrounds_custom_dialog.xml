@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/formationchildstyle"
+    android:gravity="center"
+    android:layoutDirection="rtl"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/no_message_text"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="center"
+        android:text="لا توجد ملاعب بهذه الخصائص"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_close_no_playground"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/get_player_style_btn"
+        android:gravity="center"
+        android:textAllCaps="false"
+        android:text="إغلاق"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="24sp" />
+
+</LinearLayout>

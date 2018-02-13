@@ -1,0 +1,4 @@
+#Tue Feb 13 11:11:15 GMT+02:00 2018
+base.0=D\:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.logicdesigns.mohammed.mal3bklast"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <permission
+        android:name="com.example.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" /> <!-- Optional permission for Analytics to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.logicdesigns.mohammed.mal3bklast.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.logicdesigns.mohammed.mal3bklast.permission.C2D_MESSAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- for android -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+    <!-- for Samsung -->
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/mal3abk_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_android_map_api_key" />
+
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.After_SP_Activity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.Main2Activity"
+            android:configChanges="screenSize|keyboard|keyboardHidden"
+            android:persistent="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.RegistrationActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.LoginActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.StartActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.RegisterGroundActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.logicdesigns.mohammed.mal3bklast.MainContainer"
+            android:configChanges="orientation|keyboardHidden"
+            android:persistent="true"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.logicdesigns.mohammed.mal3bklast.TermsActivity" />
+        <activity android:name="com.logicdesigns.mohammed.mal3bklast.ExceptionHandling.CrashActivity" />
+        <!-- Firebase Notifications -->
+        <service android:name="com.logicdesigns.mohammed.mal3bklast.PushNotification.MyFirebaseMessagingService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="com.logicdesigns.mohammed.mal3bklast.PushNotification.MyFirebaseInstanceIDService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <!-- ./Firebase Notifications -->
+
+        <receiver
+            android:name="com.logicdesigns.mohammed.mal3bklast.reciever.NetworkReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+
+        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.android.gms.tagmanager.TagManagerService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+            android:exported="true"
+            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.logicdesigns.mohammed.mal3bklast" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.logicdesigns.mohammed.mal3bklast" />
+            </intent-filter>
+        </receiver>
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.logicdesigns.mohammed.mal3bklast.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <!--
+         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+         with the application context. This config is merged in with the host app's manifest,
+         but there can only be one provider with the same authority activated at any given
+         point; so if the end user has two or more different apps that use Facebook SDK, only the
+         first one will be able to use the provider. To work around this problem, we use the
+         following placeholder in the authority to identify each host application as if it was
+         a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.internal.FacebookInitProvider"
+            android:authorities="com.logicdesigns.mohammed.mal3bklast.FacebookInitProvider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f9f5"
+    android:layoutDirection="rtl"
+    >
+
+    <LinearLayout
+        android:id="@+id/payLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutDirection="rtl"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/title_pay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="طرق الدفع التي نوفرها في ملعبك :"
+            android:textColor="#3d8762"
+            android:textSize="22sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/visa"
+                android:layout_width="40dp" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/mastercard"
+                android:layout_width="40dp" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/cash"
+                android:layout_width="40dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            >
+        <TextView
+            android:id="@+id/cc_tv"
+            android:layout_width="122dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="رقم البطاقة"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:textColor="#3d8762"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/cc_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="رقم البطاقة      "
+            android:inputType="number"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:textSize="22sp"
+            android:textColor="#000"
+
+            android:textColorHint="#000"
+            android:padding="5dp"
+            android:background="@drawable/edit_text_border"
+            android:layout_weight="7.25" >    <requestFocus />
+        </EditText>
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="5dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/end_tv"
+            android:layout_width="122dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="تاريخ الانتهاء"
+            android:textColor="#3d8762"
+
+            android:textSize="22sp" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+        <EditText
+            android:id="@+id/endMonth_editText"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="شهر"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:gravity="center"
+            android:maxLength="2"
+            android:maxLines="1"
+            android:textSize="22sp"
+            android:textColorHint="#000"
+            android:textColor="#000"
+            android:inputType="number"
+            android:background="@drawable/edit_text_border" />
+
+    <EditText
+        android:id="@+id/endYear_editText"
+
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="سنة"
+        android:inputType="number"
+        android:maxLength="2"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:textColorHint="#000"
+
+        android:textColor="#000"
+
+
+        android:maxLines="1"
+        android:textSize="22sp"
+        android:background="@drawable/edit_text_border"
+        android:layout_weight="2.80" />
+    </LinearLayout>
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+        <TextView
+            android:id="@+id/csv_tv"
+            android:layout_width="122dp"
+            android:layout_height="wrap_content"
+            android:text="CSV"
+            android:textAlignment="textEnd"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:textColor="#3d8762"
+            android:textSize="22sp"
+            android:layout_weight="0.03" />
+
+        <EditText
+
+            android:id="@+id/csv_editText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="CSV"
+            android:textAlignment="textEnd"
+            android:inputType="number"
+            android:maxLength="3"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:textSize="22sp"
+            android:textColorHint="#000"
+            android:textColor="#000"
+            android:background="@drawable/edit_text_border" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btn_fragment_pay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_payment"
+            android:text="ادفع"
+            android:textAllCaps="false"
+            android:layout_marginTop="16dp"
+            android:textColor="@android:color/white"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ecf7f1"
+    android:layoutDirection="rtl"
+    android:layout_marginBottom="50dp"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/search_training_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</FrameLayout>
+
+    <!--<LinearLayout--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_marginTop="20dp"--><!--android:layoutDirection="rtl"--><!--android:orientation="horizontal">-->
+
+    <!--<LinearLayout--><!--android:layout_width="174dp"--><!--android:layout_height="38dp"--><!--android:background="#8bab9d"--><!--android:gravity="center"--><!--android:layoutDirection="rtl"--><!--android:orientation="horizontal">-->
+
+    <!--<LinearLayout--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:gravity="center"--><!--android:orientation="horizontal">-->
+
+    <!--<TextView--><!--android:id="@+id/search_training_btn_pay_icon"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1"--><!--android:text="&#xf1f0;"--><!--android:textColor="#ffffff"--><!--android:textSize="16dp" />--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_marginRight="5.33dp"--><!--android:gravity="center"--><!--android:orientation="horizontal">-->
+
+    <!--<Button--><!--android:id="@+id/search_training_btn_pay"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1"--><!--android:background="#8bab9d"--><!--android:paddingBottom="8dp"--><!--android:text="الدفع"--><!--android:textAlignment="viewStart"--><!--android:textSize="16dp" />--><!--</LinearLayout>--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:layout_width="174dp"--><!--android:layout_height="38dp"--><!--android:layout_marginRight="21dp"--><!--android:background="#8bab9d"--><!--android:gravity="center"--><!--android:layoutDirection="rtl"--><!--android:orientation="horizontal">-->
+
+    <!--<LinearLayout--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:gravity="center"--><!--android:orientation="horizontal">-->
+
+    <!--<TextView--><!--android:id="@+id/search_training_btn_newSearch_icon"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1"--><!--android:text="&#xf002;"--><!--android:textColor="#ffffff"--><!--android:textSize="16dp" />--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_marginRight="5.33dp"--><!--android:gravity="center"--><!--android:orientation="horizontal">-->
+
+    <!--<Button--><!--android:id="@+id/search_training_btn_newSearch"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1"--><!--android:background="#8bab9d"--><!--android:paddingBottom="8dp"--><!--android:text="بحث جديد"--><!--android:textAlignment="viewStart"--><!--android:textSize="16dp" />--><!--</LinearLayout>--><!--</LinearLayout>-->
+

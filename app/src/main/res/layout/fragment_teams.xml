@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ecf7f1"
+    android:padding="16dp"
+    tools:context="com.logicdesigns.mohammed.mal3bklast.fragments.TeamsFragment">
+
+
+    <ListView
+        android:id="@+id/teamsList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#20945a"
+        android:dividerHeight="1dp" />
+
+</FrameLayout>

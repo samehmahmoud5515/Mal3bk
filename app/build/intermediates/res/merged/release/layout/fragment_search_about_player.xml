@@ -1,0 +1,243 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search_about_player_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f9f5"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:id="@+id/searchPlayerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutDirection="rtl"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/regitration_ground_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.3">
+
+                    <TextView
+                        android:id="@+id/position_icon_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="&#xf1e3;"
+                        android:textColor="#20945a"
+                        android:textSize="17sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/position_header_fragment_search_about_player"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center|right"
+                        android:text="المركز"
+                        android:textColor="#20945a"
+                        android:textSize="17sp" />
+
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/position_btn_fragment_search_about_player"
+                    style="@style/button_reserv"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="3"
+                    android:background="@drawable/rounded_with_effect"
+
+                    android:gravity="center"
+                    android:text="اختار"
+                    android:textAllCaps="false"
+                    android:textColor="#000"
+                    android:textSize="18sp"
+
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.3">
+
+                    <TextView
+                        android:id="@+id/location_icon_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="&#xf041;"
+                        android:textColor="#20945a"
+                        android:textSize="17sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/location_header_fragment_search_about_player"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center|right"
+                        android:text="المدينة"
+                        android:textColor="#20945a"
+                        android:textSize="17sp" />
+
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/location_btn_fragment_search_about_player"
+                    style="@style/button_reserv"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="3"
+                    android:gravity="center"
+                    android:text="اختار"
+                    android:background="@drawable/rounded_with_effect"
+
+                    android:textAllCaps="false"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.3">
+
+                    <TextView
+                        android:id="@+id/rate_icon_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="&#xf005;"
+                        android:textColor="#20945a"
+                        android:textSize="17sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/rate_header_fragment_search_about_player"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center|right"
+                        android:text="التقييم"
+                        android:textColor="#20945a"
+                        android:textSize="17sp" />
+
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/rate_btn_fragment_search_about_player"
+                    style="@style/button_reserv"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="3"
+                    android:gravity="center"
+                    android:text="اختار"
+                    android:background="@drawable/rounded_with_effect"
+
+                    android:textAllCaps="false"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/layout_registerground_button"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_fragment_search_about_player"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/get_player_style_btn"
+                    android:gravity="center"
+                    android:text="ابدا البحث"
+                    android:textAllCaps="false"
+                    android:textSize="24sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/listView_header_fragment_search_about_player"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="لاعبين متوفرين"
+                android:textColor="#008542"
+                android:textSize="22sp" />
+
+            <ListView
+                android:id="@+id/search_about_player_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="38dp"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
+
+
+
+

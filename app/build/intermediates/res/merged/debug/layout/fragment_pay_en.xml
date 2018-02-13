@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f9f5"
+    android:gravity="center_vertical|center_horizontal"
+    android:layoutDirection="ltr"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:layoutDirection="ltr"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.33dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/prompt1_fragment_pay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Available Payment Methods"
+                android:textColor="#3d8762"
+                android:textSize="17.33dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.33dp"
+            android:layout_marginTop="9.33dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layoutDirection="ltr"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/visa" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="12dp"
+                android:layoutDirection="ltr"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/mastercard" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="12dp"
+                android:layoutDirection="ltr"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/cash" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.33dp"
+            android:layout_marginTop="20dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/prompt2_fragment_pay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="Card Number:"
+                android:textColor="#3d8762"
+                android:textSize="17.33dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="365dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_text_style_payment"
+            android:gravity="center"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/edit_text_style2"
+                android:gravity="center"
+                android:inputType="number"
+                android:textColor="#94a49c"
+                android:textColorLink="@android:color/white"
+                android:textSize="17.33dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.33dp"
+            android:layout_marginTop="20dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/prompt3_fragment_pay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Expired Date:"
+                android:textColor="#3d8762"
+                android:textSize="17.33dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.33dp"
+            android:layout_marginTop="16dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="94.67dp"
+                android:layout_height="30dp"
+                android:background="@drawable/edit_text_style_payment"
+                android:layoutDirection="ltr"
+                android:orientation="horizontal">
+
+                <Spinner
+                    android:id="@+id/spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/edit_text_style2" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="94.67dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10.67dp"
+                android:background="@drawable/edit_text_style_payment"
+                android:layoutDirection="ltr"
+                android:orientation="horizontal">
+
+                <Spinner
+                    android:id="@+id/spinner2"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/edit_text_style2" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.33dp"
+            android:layout_marginTop="20dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/prompt4_fragment_pay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text=": CVV CODE"
+                android:textColor="#3d8762"
+                android:textSize="17.33dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/edit_text_style_payment"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="365dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:background="@drawable/edit_text_style2"
+                android:ems="10"
+                android:gravity="center"
+                android:inputType="number"
+                android:textColor="#94a49c"
+                android:textSize="17.33dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="252dp"
+            android:layout_height="41.33dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="14.67dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_fragment_pay"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/button_payment"
+                android:paddingBottom="8dp"
+                android:text="Pay"
+                android:textColor="@android:color/white"
+                android:textSize="21.33dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

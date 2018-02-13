@@ -1,0 +1,23 @@
+<android.support.v4.widget.SwipeRefreshLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layoutDirection="rtl"
+android:orientation="vertical"
+android:background="#ecf7f1"
+android:id="@+id/swipe_refresh_matches"
+
+tools:context="com.logicdesigns.mohammed.mal3bklast.fragments.TeamComingMatchesFragment">
+
+<android.support.v7.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/team_coming_matches_recycleView"
+    android:background="#ecf7f1"
+
+    />
+
+
+
+
+</android.support.v4.widget.SwipeRefreshLayout>

@@ -1,0 +1,148 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "407",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "575"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.1.aar\\833d46576462de555ea1c806b50e045d\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "402"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,286,405",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "148,281,400,517"
+                    },
+                    "to": {
+                        "startLines": "3,12,15,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,580,713,832",
+                        "endLines": "3,14,17,20",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "214,708,827,944"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "407",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "575"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.1.aar\\833d46576462de555ea1c806b50e045d\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "402"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,286,405",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "148,281,400,517"
+                    },
+                    "to": {
+                        "startLines": "3,12,15,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,580,713,832",
+                        "endLines": "3,14,17,20",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "214,708,827,944"
+                    }
+                }
+            ]
+        }
+    ]
+}

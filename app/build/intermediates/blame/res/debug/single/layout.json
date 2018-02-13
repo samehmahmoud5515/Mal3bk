@@ -1,0 +1,1030 @@
+[
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_imageslider.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\item_imageslider.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_container_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_main_container_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_result_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_view_result_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\b0662cc73d7d036112f248371643c9f2\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_get_player_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_get_player_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\team_properties.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\team_properties.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_myteam.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\edit_myteam.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\4f13bbb00f0f39a9b1bd0bfc43d048fa\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.6.2.aar\\f37baf8e12d4c187efecb7d17f5697f0\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\spinner_item_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_player_popup_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\get_player_popup_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_year_label_text_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_profile_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accept_approval_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_accept_approval_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_item.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\choice_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\b0662cc73d7d036112f248371643c9f2\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\available_players_child_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\available_players_child_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\4f13bbb00f0f39a9b1bd0bfc43d048fa\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_filter_search_players_box.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_filter_search_players_box.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_about_player_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_search_about_player_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.6.2.aar\\f587d0be1ed416a82aff6bed1582cb95\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\notification_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbarlayout_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\actionbarlayout_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_player_popup_dialog_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\get_player_popup_dialog_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accept_approval.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_accept_approval.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_choose_date4_playground.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_choose_date4_playground.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_push_layout.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\custom_push_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child_item_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\child_item_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\paginglistview-1.2.aar\\0f8b67d393fca54faad127d98ff77aeb\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rate_player_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\rate_player_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.5.aar\\38c605f3044956e56dfccddb93e06806\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teamcomingmatches_row.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\teamcomingmatches_row.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_teams.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_teams.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_login_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\formation_child_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\formation_child_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_header_fragment.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_header_fragment.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_training_child.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\search_training_child.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_done_button.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_result.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_view_result.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\b0662cc73d7d036112f248371643c9f2\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_registration_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after__sp_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_after__sp_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_item_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\group_item_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_choose_playgroud.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_choose_playgroud.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.28.0.aar\\1e72b2a1c639a3457327e0ec262749f7\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_player_data.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_edit_player_data.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerstyle_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\spinnerstyle_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_image_playground_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\upload_image_playground_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog_v2.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_time_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_row.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\message_list_row.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recommended_no_playgrounds.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_recommended_no_playgrounds.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\available_players_child.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\available_players_child.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerstyle.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\spinnerstyle.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\b0662cc73d7d036112f248371643c9f2\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_date__playground.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_select_date__playground.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_list.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_details.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_chat_details.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testt_copy.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\testt_copy.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.28.0.aar\\2bedb84df79e0ec59373a82a69146796\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\match_history_row.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\match_history_row.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register_ground.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_register_ground.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_details_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\rating_details_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pay.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_pay.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_main_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register_ground_copywith_expand_list.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_register_ground_copywith_expand_list.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\519c70a97e8b4902582ca79723d73bc8\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testt.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\testt.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_reservation_layout.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\select_reservation_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_page_fragment_child.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\main_page_fragment_child.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mainpage_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_mainpage_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_coming_matches_row.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\player_coming_matches_row.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\4f13bbb00f0f39a9b1bd0bfc43d048fa\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_terms.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_terms.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_copy.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\test_copy.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\end_of_players_button.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\end_of_players_button.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register_ground_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_register_ground_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_playgrounds_custom_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\no_playgrounds_custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_training_child_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\search_training_child_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_lang_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\select_lang_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result_playground_content_list.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\result_playground_content_list.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fotter_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_fotter_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playground_details_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\playground_details_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_playground_item.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\choose_playground_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after__sp.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_after__sp.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_filter_search_players_box_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_filter_search_players_box_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_playground_search_by_city.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_playground_search_by_city.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.6.2.aar\\f587d0be1ed416a82aff6bed1582cb95\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.28.0.aar\\1e72b2a1c639a3457327e0ec262749f7\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\519c70a97e8b4902582ca79723d73bc8\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_header_fragment_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_header_fragment_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\519c70a97e8b4902582ca79723d73bc8\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playground_available_time.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\playground_available_time.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_search_teams.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\dialog_search_teams.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\b0662cc73d7d036112f248371643c9f2\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_training.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_search_training.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_upload_image.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\dialog_upload_image.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_page_fragment_child_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\main_page_fragment_child_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.5.aar\\38c605f3044956e56dfccddb93e06806\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_refuse_pay.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_refuse_pay.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_player_child_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\get_player_child_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_match_history_fragmnet.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_match_history_fragmnet.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_player_data_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_edit_player_data_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_team_coming_matches.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_team_coming_matches.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_formation_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_formation_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.28.0.aar\\1e72b2a1c639a3457327e0ec262749f7\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reserve_playground_container.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_reserve_playground_container.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_row.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\notification_row.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_club_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_club_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_player_child.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\get_player_child.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\team_name_group_exp_lv.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\team_name_group_exp_lv.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alerter_alert_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.1.aar\\833d46576462de555ea1c806b50e045d\\res\\layout\\alerter_alert_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_training_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_search_training_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_get_player.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_get_player.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.6.2.aar\\f587d0be1ed416a82aff6bed1582cb95\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_formation.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_formation.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_delete_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\confirm_delete_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic_check.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_player_coming_matches.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_player_coming_matches.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\519c70a97e8b4902582ca79723d73bc8\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view_v2.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view_v2.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_header_view_v2.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_training_box_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_search_training_box_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1257e9b5c97f19ba978c1232512ea873\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\style_dialog_header_icon.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\MaterialStyledDialogs-2.1.aar\\ca7fdfe34ff51b3705969b1e8d9a48b7\\res\\layout\\style_dialog_header_icon.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mainpage.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_mainpage.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_container.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_main_container.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_listitem.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mock.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.1.aar\\833d46576462de555ea1c806b50e045d\\res\\layout\\activity_mock.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_fragment_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\header_fragment_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.5.aar\\38c605f3044956e56dfccddb93e06806\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pay_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_pay_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_training_box.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_search_training_box.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child_item.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list_check.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_list_check.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_header_label.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_refuse_pay_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_refuse_pay_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.6.2.aar\\f587d0be1ed416a82aff6bed1582cb95\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\results_noplaygrounds.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\results_noplaygrounds.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.28.0.aar\\1e72b2a1c639a3457327e0ec262749f7\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\4f13bbb00f0f39a9b1bd0bfc43d048fa\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result_playground_content_list_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\result_playground_content_list_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date_v2.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_selected_date_v2.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notfication.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_notfication.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\style_dialog_header_title.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\MaterialStyledDialogs-2.1.aar\\ca7fdfe34ff51b3705969b1e8d9a48b7\\res\\layout\\style_dialog_header_title.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_start_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_list.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_requests_to_players.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_requests_to_players.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input_check.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_input_check.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rating_item.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\dialog_rating_item.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\members_profile_fragment_child_en.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\members_profile_fragment_child_en.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\formation_child.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\formation_child.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\00dde3b2e4d09d0ee18d8df352d9c938\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline_popup_dialog.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\offline_popup_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_club.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_club.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\519c70a97e8b4902582ca79723d73bc8\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_inbox_fragment.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_inbox_fragment.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog_v2.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_about_player.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_search_about_player.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbarlayout.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\actionbarlayout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\members_profile_fragment_child.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\members_profile_fragment_child.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\request_to_players_row.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\request_to_players_row.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatbubble.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\chatbubble.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_club.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_add_club.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\b0662cc73d7d036112f248371643c9f2\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\4f13bbb00f0f39a9b1bd0bfc43d048fa\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.5.aar\\38c605f3044956e56dfccddb93e06806\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\519c70a97e8b4902582ca79723d73bc8\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5be3b227f9da6d6291409c5f6d16447f\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fotter.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\fragment_fotter.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\layout\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_time_picker_dialog.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.2.2.aar\\6275570e33433ddf1f903c96fd8afece\\res\\layout\\mdtp_date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crash.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\src\\main\\res\\layout\\activity_crash.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\4f13bbb00f0f39a9b1bd0bfc43d048fa\\res\\layout\\cast_mini_controller.xml"
+    }
+]

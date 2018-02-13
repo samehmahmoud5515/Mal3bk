@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/formationchildstyle"
+    android:gravity="center"
+    android:layoutDirection="rtl"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="120dp"
+        android:id="@+id/playground_imageView"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/dialogHeader"
+        android:textSize="17sp"
+        android:id="@+id/playground_name_tv"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:text="adad"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+
+        >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#xf041;"
+        android:textColor="@color/dialogHeader"
+        android:textSize="17sp"
+        android:id="@+id/city_ic"
+        android:layout_margin="5dp"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/dialogHeader"
+            android:textSize="17sp"
+            android:id="@+id/city_tv"
+            android:text="adad"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="لا توجد ملاعب بهذه الخصائص"
+        android:textSize="20sp"
+        android:id="@+id/address_tv"
+        android:textAlignment="center"
+        style="@style/notification_item_style"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold" />
+
+
+
+
+</LinearLayout>

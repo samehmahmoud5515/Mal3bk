@@ -1,0 +1,377 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- The main content view -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f1f9f5"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/regitration_ground_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layoutDirection="ltr"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="395dp"
+                android:layout_height="wrap_content"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/position_icon_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="&#xf041;"
+                        android:textColor="#20945a"
+                        android:textSize="13.33dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6.67dp"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/position_header_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingBottom="7dp"
+                        android:text="position"
+                        android:textColor="#20945a"
+                        android:textSize="17dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="250dp"
+                    android:layout_height="28dp"
+                    android:layout_marginLeft="16dp"
+                    android:background="@drawable/layout_registerground_bg"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="200dp"
+                        android:layout_height="match_parent"
+                        android:foregroundGravity="center_vertical"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <Spinner
+                            android:id="@+id/position_spinner_fragment_search_about_player"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:layoutDirection="ltr"
+                            android:popupBackground="#b2bab6" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="7dp"
+                        android:foregroundGravity="center_vertical"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/position_icon_inner_fragment_search_about_player"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layoutDirection="ltr"
+                            android:popupBackground="#ffffff"
+                            android:text="&#xf041;"
+                            android:textSize="18dp" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="395dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13.33dp"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/location_icon_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="&#xf279;"
+                        android:textColor="#20945a"
+                        android:textSize="13.33dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6.67dp"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/location_header_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingBottom="7dp"
+                        android:text="location"
+                        android:textColor="#20945a"
+                        android:textSize="17dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="250dp"
+                    android:layout_height="28dp"
+                    android:layout_marginLeft="16dp"
+                    android:background="@drawable/layout_registerground_bg"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="200dp"
+                        android:layout_height="match_parent"
+                        android:foregroundGravity="center_vertical"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <Spinner
+                            android:id="@+id/location_spinner_fragment_search_about_player"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:layoutDirection="ltr"
+                            android:popupBackground="#b2bab6" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="7dp"
+                        android:foregroundGravity="center_vertical"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/location_inner_icon_fragment_search_about_player"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layoutDirection="ltr"
+                            android:popupBackground="#ffffff"
+                            android:text="&#xf279;"
+                            android:textSize="18dp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="395dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13.33dp"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center_vertical|center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/rate_icon_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="&#xf005;"
+                        android:textColor="#20945a"
+                        android:textSize="13.33dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6.67dp"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/rate_header_fragment_search_about_player"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingBottom="7dp"
+                        android:text="rate"
+                        android:textColor="#20945a"
+                        android:textSize="17dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="250dp"
+                    android:layout_height="28dp"
+                    android:layout_marginLeft="16dp"
+                    android:background="@drawable/layout_registerground_bg"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="200dp"
+                        android:layout_height="match_parent"
+                        android:foregroundGravity="center_vertical"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <Spinner
+                            android:id="@+id/rate_spinner_fragment_search_about_player"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:layoutDirection="ltr"
+                            android:popupBackground="#b2bab6" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="7dp"
+                        android:foregroundGravity="center_vertical"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/rate_inner_icon_fragment_search_about_player"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layoutDirection="ltr"
+                            android:popupBackground="#ffffff"
+                            android:text="&#xf005;"
+                            android:textSize="18dp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="340dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="25dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/layout_registerground_button"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_fragment_search_about_player"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/get_player_style_btn"
+
+                    android:paddingBottom="6dp"
+                    android:text="Search"
+                    android:textSize="21dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layoutDirection="ltr"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/listView_header_fragment_search_about_player"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:text="Available Player "
+                    android:textColor="#008542"
+                    android:textSize="21dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ListView
+                    android:id="@+id/search_about_player_list"
+                    android:layout_width="wrap_content"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <!-- The navigation drawer -->
+
+
+

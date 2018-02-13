@@ -1,0 +1,69 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingStart="12dp"
+    android:paddingEnd="12dp"
+    android:background="@color/backgroundColor"
+    android:id="@+id/registerGround_simple"
+    tools:context="com.logicdesigns.mohammed.mal3bklast.fragments.PlaygroundSearchByCityFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/cityLinearLayout_simple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layoutDirection="rtl"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/city_ic_simple"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".5"
+            android:gravity="center"
+            android:text="&#xf041;"
+            android:textColor="#20945a"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/cityText_simple"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="المدينة"
+            android:textColor="#20945a"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/select_town_resv_btn_simple"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="3"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_with_effect"
+            android:gravity="center"
+            android:text="اختار"
+            android:textAllCaps="false"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/simple_search_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/layout_registerground_addcartbtn_bg"
+        android:text="ابدا البحث"
+        android:textAllCaps="false"
+        android:textSize="24sp" />
+</LinearLayout>
+</FrameLayout>

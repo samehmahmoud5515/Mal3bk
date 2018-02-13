@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- The main content view -->
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/regitration_ground_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f1f9f5"
+        android:gravity="center"
+        android:layoutDirection="ltr"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="395dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="14.67dp"
+            android:layout_marginLeft="14.67dp"
+            android:foregroundGravity="center_vertical"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/speed_icon_fragment_filter_search_players_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="&#xf1de;"
+                    android:textColor="#20945a"
+                    android:textSize="13.33dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6.67dp"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/speed_header_fragment_filter_search_players_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="7dp"
+                    android:text="Speed"
+                    android:textColor="#20945a"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="240dp"
+                android:layout_height="24dp"
+                android:layout_marginLeft="16dp"
+                android:background="@drawable/layout_mainpage_button"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="240dp"
+                    android:layout_height="match_parent"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <Spinner
+                        android:id="@+id/speed_spinner_fragment_filter_search_players_box"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layoutDirection="ltr"
+                        android:popupBackground="#008542" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="395dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="14.67dp"
+            android:layout_marginLeft="14.67dp"
+            android:layout_marginTop="13.33dp"
+            android:foregroundGravity="center_vertical"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/skill_icon_fragment_filter_search_players_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="&#xf1e3;"
+                    android:textColor="#20945a"
+                    android:textSize="13.33dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6.67dp"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/skill_heasder_fragment_filter_search_players_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="7dp"
+                    android:text="Skill"
+                    android:textColor="#20945a"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="240dp"
+                android:layout_height="24dp"
+                android:layout_marginLeft="16dp"
+                android:background="@drawable/layout_mainpage_button"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="240dp"
+                    android:layout_height="match_parent"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <Spinner
+                        android:id="@+id/skill_spinner_fragment_filter_search_players_box"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layoutDirection="ltr"
+                        android:popupBackground="#008542" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="395dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="14.67dp"
+            android:layout_marginLeft="14.67dp"
+            android:layout_marginTop="13.33dp"
+            android:foregroundGravity="center_vertical"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center_vertical|center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/shoot_icon_fragment_filter_search_players_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="&#xf1d1;"
+                    android:textColor="#20945a"
+                    android:textSize="13.33dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6.67dp"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/shoot_header_fragment_filter_search_players_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="7dp"
+                    android:text="Shooting"
+                    android:textColor="#20945a"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="240dp"
+                android:layout_height="24dp"
+                android:layout_marginLeft="16dp"
+                android:background="@drawable/layout_mainpage_button"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="240dp"
+                    android:layout_height="match_parent"
+                    android:foregroundGravity="center_vertical"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <Spinner
+                        android:id="@+id/shoot_spinner_fragment_filter_search_players_box"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layoutDirection="ltr"
+                        android:popupBackground="#008542" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="32dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/layout_registerground_button"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_fragment_filter_search_players_box"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/search_trining_box_btn"
+                android:onClick="viewResult"
+                android:paddingBottom="6dp"
+                android:text="Search"
+                android:textSize="24dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+    <!-- The navigation drawer -->
+
+
+

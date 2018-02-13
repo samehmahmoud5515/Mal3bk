@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#2f7e33</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="loginColorbtn">#dddddd</color>
+    <color name="registrationColorbtn">#2b2b2b</color>
+    <color name="emailColorbtn">#404e41</color>
+    <color name="actionBar">#ffffff</color>
+    <color name="dialogHeader">#008542</color>
+    <color name="lightGreen">#ebf8f1</color>
+    <color name="white">#ffffff</color>
+    <color name="lightgrey">#e0e2e1</color>
+    <color name="notificationDialogColor">#ebf8f1</color>
+ <color name="lightGreen1">#ecf7f1</color>
+    <color name="backgroundColor">#ecf7f1</color>
+
+    <color name="from">#000000</color>
+    <color name="subject">#111111</color>
+    <color name="timestamp">#4285f4</color>
+    <color name="message">#7a7a7a</color>
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="icon_tint_selected">#fed776</color>
+    <color name="row_activated">#e0e0e0</color>
+    <color name="bg_action_mode">#757575</color>
+    <color name="bg_circle_default">#666666</color>
+</resources>

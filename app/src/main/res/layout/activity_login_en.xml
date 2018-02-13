@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/background_login_page"
+    android:gravity="center"
+    android:layoutDirection="ltr"
+
+
+    android:orientation="vertical"
+    tools:context="com.logicdesigns.mohammed.mal3bklast.LoginActivity"
+   ><!--main container linear layout-->
+
+
+    <LinearLayout
+        android:layout_width="225dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"> <!--logo linear layout-->
+        <ImageView
+            android:id="@+id/loginLogo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/logo" />
+    </LinearLayout> <!--end logo linear layout-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"> <!--prompt linear layout-->
+        <TextView
+            android:id="@+id/prompt_login_first"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:fontFamily="serif-monospace"
+            android:text="تسجيل الدخول الي حسابك الشخصي"
+            android:textColor="#ffffff"
+            android:textSize="18dp" />
+    </LinearLayout> <!--end prompt linear layout-->
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/emailColorbtn"> <!--email container linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="14dp"
+            android:foregroundGravity="center_vertical|center_horizontal"
+            android:gravity="center_vertical|center_horizontal"> <!--logoo email linear layout-->
+            <TextView
+                android:id="@+id/emailboxicon_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="&#xf0e0;"
+                android:textColor="#e3f0db"
+                android:textSize="17.33dp" />
+
+        </LinearLayout> <!--end logoemail linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"> <!--text email linear layout-->
+
+            <EditText
+                android:id="@+id/email_login_et"
+                android:layout_width="280dp"
+                android:layout_height="match_parent"
+
+                android:layout_weight="1"
+                android:background="@drawable/edit_text_style"
+                android:hint="email"
+                android:inputType="textEmailAddress"
+                android:paddingBottom="7dp"
+                android:textAlignment="viewStart"
+                android:textColor="#e3f0db"
+                android:textColorHint="#e3f0db"
+                android:textColorLink="@android:color/transparent"
+                android:textDirection="ltr" />
+        </LinearLayout> <!--end text email linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:visibility="visible"> <!--true or flase email linear layout-->
+            <ImageView
+                android:id="@+id/emailboxvalidation_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/falseimage"
+
+                />
+
+        </LinearLayout> <!--end true or false email  linear layout-->
+    </LinearLayout> <!--end email container linear layout-->
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/emailColorbtn"> <!--password container linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="14dp"
+            android:foregroundGravity="center_horizontal"
+            android:gravity="center_vertical"> <!--logoo password linear layout-->
+
+
+            <TextView
+                android:id="@+id/password_icon_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="&#xf023;"
+                android:textColor="#e3f0db"
+                android:textSize="17.33dp" />
+
+        </LinearLayout> <!--end logo password linear layout-->
+        <LinearLayout
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"> <!--text password linear layout-->
+
+            <EditText
+                android:id="@+id/password_login_et"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:layout_weight="1"
+                android:background="@drawable/edit_text_style"
+                android:hint="password"
+                android:inputType="textPassword"
+                android:paddingBottom="7dp"
+                android:textAlignment="viewStart"
+                android:textColorHint="#e3f0db"
+                android:textColorLink="@android:color/transparent"
+                android:textDirection="ltr" />
+        </LinearLayout> <!--end text password linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"> <!--true or flase password linear layout-->
+
+            <ImageView
+                android:id="@+id/password_validation_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/falseimage"
+                />
+
+        </LinearLayout> <!--end true or false password  linear layout-->
+    </LinearLayout> <!--end password container linear layout-->
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal"> <!--container for after password linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"> <!--container for check box tzkrni linear layout-->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"> <!--check box  linear layout-->
+
+                <CheckBox
+                    android:id="@+id/rememberMechecklog"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text=""
+                    android:textColorLink="#fcfcfc"
+                    app:buttonTint="#fcfcfc" />
+
+            </LinearLayout><!--end  for check box  linear layout-->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="3.33dp"> <!--  tzkrni prompt linear layout-->
+                <TextView
+                    android:id="@+id/prompt_remember_me"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="Remember me "
+                    android:textColor="@android:color/white" />
+
+            </LinearLayout><!--for tzkrni prompt linear layout-->
+
+        </LinearLayout><!--end container for check box tzkrni linear layout-->
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"> <!--new rigistartion linear layout-->
+            <Button
+                android:id="@+id/new_Registration_btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?attr/selectableItemBackground"
+                android:onClick="newRegistration"
+                android:text="Register"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout> <!--end new registration  linear layout-->
+
+    </LinearLayout> <!--end container for after password linear layout-->
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#2b2b2b"> <!--container for button login and load linear layout-->
+        <LinearLayout
+            android:layout_width="22.67dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5.33dp"
+            android:layout_marginLeft="16dp"
+            android:foregroundGravity="center_vertical|center_horizontal"
+            android:gravity="center_vertical|center_horizontal"> <!--logoo email linear layout-->
+            <ProgressBar
+                android:id="@+id/loadiconlog"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+
+        </LinearLayout> <!--end  load linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:layout_marginRight="30dp"
+            android:gravity="fill_vertical"
+            android:weightSum="1"> <!-- button linear layout-->
+            <Button
+                android:id="@+id/login_db_btn"
+                android:layout_width="275dp"
+                android:layout_height="match_parent"
+                android:background="#2b2b2b"
+                android:onClick="login"
+                android:paddingBottom="7dp"
+                android:text="Login"
+                android:textAlignment="center"
+                android:textColorLink="@android:color/white"
+                android:textSize="24dp" />
+        </LinearLayout> <!--end  button linear layout-->
+    </LinearLayout> <!--end container for button login and load linear layout-->
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="20dp"
+        android:weightSum="1"> <!--  last prompt &image linear layout-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"> <!--  last prompt  linear layout-->
+            <TextView
+                android:id="@+id/prompt_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingBottom="7dp"
+                android:text="register with"
+                android:textColor="@android:color/background_light" />
+
+            <TextView
+                android:id="@+id/arrowicon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="9.33dp"
+                android:layout_weight="1"
+                android:text="&#xf0a8;"
+                android:textColor="#e3f0db"
+                android:textSize="17dp" />
+
+        </LinearLayout> <!--end  last prompt linear layout-->
+        <!--end  image  linear layout-->
+    </LinearLayout> <!--end  last prompt linear layout-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"> <!--  container for social media linear layout-->
+        <LinearLayout
+            android:layout_width="149.33dp"
+            android:layout_height="38.67dp"
+            android:gravity="center"> <!--  button face linear layout-->
+            <Button
+                android:id="@+id/facebook_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:background="@drawable/facebookimage"
+                android:onClick="facebookLogin" />
+        </LinearLayout> <!--end button face linear layout-->
+        <LinearLayout
+            android:layout_width="149.33dp"
+            android:layout_height="38.67dp"
+
+            android:layout_marginLeft="36dp"
+            android:gravity="center"> <!--  button twitter linear layout-->
+            <Button
+                android:id="@+id/twitter_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/twitterimage"
+                android:onClick="twitterLogin" />
+        </LinearLayout>
+
+        <!--end button twitter linear layout-->
+    </LinearLayout>
+
+    <!--end container social media   linear layout-->
+
+</LinearLayout>
+
+    <!-- end container linearlayout-->
+

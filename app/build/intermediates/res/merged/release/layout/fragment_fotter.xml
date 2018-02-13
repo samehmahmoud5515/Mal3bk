@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:gravity="center_vertical|center_horizontal"
+    android:layoutDirection="rtl"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+<LinearLayout
+    android:layout_width="42dp"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:id="@+id/ll_home_footer"
+
+    android:weightSum="1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/home_footer"
+
+                    android:layout_height="match_parent"
+                    android:text="&#xf015;"
+                    android:textColor="#dddddd"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:layout_weight="0.87" />
+
+</LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="42dp"
+            android:layout_height="match_parent"
+            android:id="@+id/ll_register_playground_footer"
+            android:layout_weight="1"
+
+            android:weightSum="1">
+
+                <ImageView
+                    android:id="@+id/register_playground_footer"
+
+                    android:layout_width="42dp"
+                    android:layout_height="46dp"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center"
+
+                    android:background="@drawable/shabka"
+                    android:layout_weight="0.41" />
+
+
+</LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="42dp"
+            android:layout_height="match_parent"
+            android:id="@+id/ll_get_player_footer"
+            android:layout_weight="1"
+
+            >
+                <TextView
+                    android:id="@+id/get_player_footer"
+
+                    android:layout_width="42dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="&#xf234;"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center"
+
+                    android:textColor="#dddddd"
+                    android:textSize="30dp" />
+
+</LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="42dp"
+            android:layout_height="match_parent"
+            android:id="@+id/ll_search_training_footer"
+            android:layout_weight="1"
+
+            >
+                <TextView
+                    android:layout_width="42dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="&#xf002;"
+                    android:gravity="center"
+                    android:id="@+id/search_training_footer"
+
+                    android:textColor="#dddddd"
+                    android:textSize="30dp" />
+
+</LinearLayout>
+
+        <LinearLayout
+            android:layout_width="42dp"
+            android:layout_height="match_parent"
+            android:id="@+id/ll_profile_footer"
+            android:layout_weight="1"
+
+            >
+
+                <TextView
+                    android:layout_width="42dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="&#xf007;"
+                    android:gravity="center"
+                    android:id="@+id/profile_footer"
+
+                    android:textColor="#dddddd"
+                    android:textSize="30dp" />
+</LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+

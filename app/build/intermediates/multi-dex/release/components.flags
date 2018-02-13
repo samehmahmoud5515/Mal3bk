@@ -1,0 +1,42 @@
+-injars 'D:\SAMEH2\Mal3bk\Mal3bk\app\build\intermediates\transforms\jarMerging\release\0.jar'
+-outjars 'D:\SAMEH2\Mal3bk\Mal3bk\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'C:\Users\logicDesigns\AppData\Local\Android\Sdk\build-tools\26.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\SAMEH2\Mal3bk\Mal3bk\app\build\intermediates\multi-dex\release\components.flags'
+
+
+# view AndroidManifest.xml #generated:67
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

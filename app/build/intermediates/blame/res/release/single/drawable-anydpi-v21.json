@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\e3c8e0dd945c645509ec46f978146e80\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_search_black_24dp.xml",
+        "source": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\alerter_ic_notifications.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.1.aar\\833d46576462de555ea1c806b50e045d\\res\\drawable-anydpi-v21\\alerter_ic_notifications.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\43322be6b7420be04a4f4290f4938482\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\SAMEH2\\Mal3bk\\Mal3bk\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\alerter_ic_face.xml",
+        "source": "C:\\Users\\logicDesigns\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.1.aar\\833d46576462de555ea1c806b50e045d\\res\\drawable-anydpi-v21\\alerter_ic_face.xml"
+    }
+]

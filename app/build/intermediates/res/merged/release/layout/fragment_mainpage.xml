@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainPage_framelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#ecf7f1"
+    android:gravity="center"
+    android:layoutDirection="rtl"
+    android:padding="8dp"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/swipe_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginBottom="38dp"
+        android:layout_marginTop="22dp"
+        >
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/offersRecyclerView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+
+
+</android.support.v4.widget.SwipeRefreshLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/noOffers_textView"
+        android:layout_marginTop="39dp"
+        android:textColor="#008542"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:gravity="center"
+        android:visibility="gone"
+
+        />
+</FrameLayout>

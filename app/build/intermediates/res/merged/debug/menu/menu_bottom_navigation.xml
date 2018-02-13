@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home_fragment"
+        android:checked="true"
+        android:icon="@drawable/ic_home"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/register_pg_fragment"
+        android:checked="false"
+        android:icon="@drawable/shabka"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/search_pl_fragment"
+        android:checked="false"
+        android:icon="@drawable/ic_search"
+        android:title=""
+
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/search_trg_fragment"
+        android:checked="false"
+        android:icon="@drawable/ic_search_training"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/profile_fragment"
+        android:checked="false"
+        android:icon="@drawable/ic_fotter_profile"
+        android:title=""
+        app:showAsAction="ifRoom" />
+</menu>

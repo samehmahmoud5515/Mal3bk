@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/checkInternetLayout"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/formationchildstyle"
+    android:gravity="center"
+    android:layoutDirection="rtl"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/offline_message_text"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="@string/check_internet"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/go_to_setting"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/get_player_style_btn"
+        android:gravity="center"
+        android:text="إذهب الي الضبط"
+        android:textAllCaps="false"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_close"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/get_player_style_btn"
+        android:gravity="center"
+        android:text="إغلاق"
+        android:textAllCaps="false"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="24sp" />
+
+</LinearLayout>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/notiification_card"
+    android:layout_margin="10dp"
+    android:background="#ebf8f1"
+    android:layoutDirection="rtl"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="7dp"
+        android:id="@+id/notification_relative"
+        android:background="#ebf8f1"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content">
+<de.hdodenhof.circleimageview.CircleImageView
+    android:layout_width="70dp"
+    android:scaleType="centerCrop"
+    android:layout_height="70dp"
+    android:layout_alignParentEnd="true"
+    android:id="@+id/playerImage_imageView"
+    />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="2"
+            android:layout_height="wrap_content">
+            <TextView
+
+                android:id="@+id/allString"
+                style="@style/notification_item_style"
+
+                android:text="allString"
+                />
+<!--
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:textAlignment="textEnd">
+    <TextView
+        android:layout_weight="1"
+
+        android:id="@+id/title_message_textView"
+        style="@style/notification_item_style"
+        android:text="noti"
+        android:textAlignment="viewStart"
+        />
+    <TextView
+        android:layout_weight="1"
+
+        android:layout_marginEnd="5dp"
+        android:id="@+id/player_name_textView"
+        style="@style/notification_item_style"
+        android:text="sameh"
+
+        android:textAlignment="textStart" />
+
+</LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/withTeamTextView"
+                    style="@style/notification_item_style"
+                    android:text="withTeam"
+                    android:textAlignment="viewStart"
+                    android:layout_weight="1"
+
+                    />
+
+                <TextView
+            android:id="@+id/withTeamTextView_name"
+            style="@style/notification_item_style"
+            android:text="withTeamTextView_name"
+            android:layout_weight="1"
+
+                    android:textAlignment="textStart" />
+
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+        <TextView
+
+            android:textAlignment="viewStart"
+
+            android:id="@+id/againstTeamTextView"
+            style="@style/notification_item_style"
+            android:text="againstTeamTextView"
+            android:layout_weight="1"
+            />
+        <TextView
+
+
+            android:id="@+id/againstTeamTextView_name"
+            style="@style/notification_item_style"
+            android:text="againstTeamTextView_name"
+            android:layout_weight="1"
+
+
+            android:textAlignment="textStart" />
+                </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+
+
+            android:id="@+id/matchDate"
+            style="@style/notification_item_style"
+            android:text="matchDate"
+               android:layout_weight="1"
+                android:textAlignment="viewStart"
+
+                />
+        <TextView
+
+
+            android:id="@+id/matchDateValue"
+            style="@style/notification_item_style"
+            android:text="matchDateValue"
+            android:layout_weight="1"
+            android:textAlignment="textEnd" />
+                </LinearLayout>
+
+
+
+        <TextView
+
+
+            android:id="@+id/time_textView"
+            style="@style/notification_item_style"
+            android:text="time_textView"
+            android:layout_width="match_parent"
+            android:textAlignment="viewStart"
+            />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+
+
+            android:id="@+id/playground_name"
+            style="@style/notification_item_style"
+            android:text="playground_name"
+           android:textAlignment="viewStart"
+                android:layout_weight="1"
+            />
+        <TextView
+
+
+            android:id="@+id/playground_name_value"
+            style="@style/notification_item_style"
+            android:text="playground_name_value"
+            android:layout_weight="1"
+
+            android:textAlignment="textEnd" />
+                </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+        <TextView
+
+            android:id="@+id/ic_city"
+            android:text="&#xf041;"
+
+            style="@style/notification_item_style"
+
+
+            />
+        <TextView
+
+            android:id="@+id/tv_city"
+            android:textAlignment="viewStart"
+            style="@style/notification_item_style"
+            android:text="time_textView"
+
+            />
+                </LinearLayout>
+-->
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

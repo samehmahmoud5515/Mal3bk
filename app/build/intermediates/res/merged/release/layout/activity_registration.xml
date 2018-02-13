@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/registerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/playground_image"
+    android:layoutDirection="rtl"
+    tools:context="com.logicdesigns.mohammed.mal3bklast.RegistrationActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp">
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/playground_cover" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp">
+
+                <TextView
+                    android:id="@+id/first_prompt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="تسجيل حساب شخصي"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="32dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:background="#394c2f">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/name_icon_registration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="&#xf2bd;"
+                            android:textColor="#e3f0db"
+                            android:textSize="17dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+
+                        <EditText
+                            android:id="@+id/nameedittextreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/edit_text_style"
+                            android:hint="اسم اللاعب"
+                            android:inputType="textPersonName"
+                            android:textColor="#e3f0db"
+                            android:textColorHint="#e3f0db"
+                            android:textColorLink="@android:color/transparent">
+
+                            <requestFocus />
+                        </EditText>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_weight="1"
+                        android:foregroundGravity="center"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/namevalidicon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|center_horizontal"
+                            android:layout_weight="1"
+                            android:clickable="false"
+                            android:saveEnabled="false"
+                            app:srcCompat="@drawable/falseimage" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#394c2f">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/email_icon_registration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="&#xf0e0;"
+                            android:textColor="#e3f0db"
+                            android:textSize="17dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+
+                        <EditText
+                            android:id="@+id/emailedittextreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/edit_text_style"
+                            android:hint="البريد الالكتروني"
+                            android:inputType="textEmailAddress"
+                            android:textColor="@android:color/white"
+                            android:textColorHint="#e3f0db"
+                            android:textColorLink="@android:color/transparent" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_weight="1"
+                        android:foregroundGravity="center"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/emailvalidicon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|center_horizontal"
+                            android:layout_weight="1"
+                            android:clickable="false"
+                            android:saveEnabled="false"
+                            app:srcCompat="@drawable/falseimage" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#394c2f">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/phone_icon_registration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="&#xf095;"
+                            android:textColor="#e3f0db"
+                            android:textSize="17dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+
+                        <EditText
+                            android:id="@+id/phoneedittextreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/edit_text_style"
+                            android:hint="رقم الجوال"
+                            android:inputType="phone"
+                            android:textColor="#e3f0db"
+                            android:textColorHint="#e3f0db"
+                            android:textColorLink="@android:color/transparent" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_weight="1"
+                        android:foregroundGravity="center"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/phonevalidicon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|center_horizontal"
+                            android:layout_weight="1"
+                            android:clickable="false"
+                            android:saveEnabled="false"
+                            app:srcCompat="@drawable/falseimage" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#394c2f">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/password_icon_registration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="&#xf023;"
+                            android:textColor="#e3f0db"
+                            android:textSize="17dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+
+                        <EditText
+                            android:id="@+id/passwordedittextreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/edit_text_style"
+                            android:hint="كلمة المرور"
+                            android:inputType="textPassword"
+                            android:textColor="#e3f0db"
+                            android:textColorHint="#e3f0db"
+                            android:textColorLink="@android:color/transparent" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_weight="1"
+                        android:foregroundGravity="center"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/password1validicon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|center_horizontal"
+                            android:layout_weight="1"
+                            android:clickable="false"
+                            android:saveEnabled="false"
+                            app:srcCompat="@drawable/falseimage" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#394c2f">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/conpassword_icon_registration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="&#xf023;"
+                            android:textColor="#e3f0db"
+                            android:textSize="17dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+
+                        <EditText
+                            android:id="@+id/confirmedittextreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/edit_text_style"
+                            android:hint="تأكيد كلمة المرور"
+                            android:inputType="textPassword"
+                            android:textColor="#e3f0db"
+                            android:textColorHint="#e3f0db"
+                            android:textColorLink="@android:color/transparent" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_weight="1"
+                        android:foregroundGravity="center"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/password2validicon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|center_horizontal"
+                            android:layout_weight="1"
+                            android:clickable="false"
+                            android:saveEnabled="false"
+                            app:srcCompat="@drawable/falseimage" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#394c2f">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/town_icon_registration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="&#xf041;"
+                            android:textColor="#e3f0db"
+                            android:textSize="17dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+
+                        <Button
+                            android:id="@+id/towneditSpinnerreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/edit_text_style"
+                            android:text="اختار"
+                            android:textAlignment="viewStart"
+                            android:textColor="#FFF"
+                            android:textColorHint="#e3f0db"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_weight="1"
+                        android:foregroundGravity="center"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/townvalidicon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|center_horizontal"
+                            android:layout_weight="1"
+                            android:clickable="false"
+                            android:saveEnabled="false"
+                            app:srcCompat="@drawable/falseimage" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center">
+
+                        <CheckBox
+                            android:id="@+id/acceptcheckboxreg"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:buttonTint="#fcfcfc"
+                            android:checked="true"
+                            android:text=""
+                            android:textColorLink="#fcfcfc" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp">
+
+                        <TextView
+                            android:id="@+id/second_prompt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="اوافق علي الشروط"
+                            android:textColor="@android:color/white"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <Button
+                        android:id="@+id/rulesbtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:gravity="center|left"
+                        android:text="شروط الاستخدام"
+                        android:textAllCaps="false"
+                        android:textSize="17sp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_weight="1">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <com.facebook.login.widget.LoginButton
+                            android:id="@+id/login_button"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:visibility="gone" />
+
+                        <Button
+                            android:id="@+id/facebook_button"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/facebookmo"
+                            android:onClick="facebookRegister" />
+
+                    </FrameLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_weight="1">
+
+                    <Button
+                        android:id="@+id/btn_sign_in_google"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/googlemo"
+                        android:visibility="visible" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="16dp"
+                android:background="#394c2f">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                    <ProgressBar
+                        android:id="@+id/loadiconreg"
+                        style="?android:attr/progressBarStyle"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:visibility="invisible" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="7">
+
+                    <Button
+                        android:id="@+id/registerbtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?attr/selectableItemBackground"
+                        android:gravity="center"
+                        android:onClick="addUser"
+                        android:text="تسجيل"
+                        android:textAllCaps="false"
+                        android:textSize="24dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:layout_weight="1"
+                    android:foregroundGravity="center"
+                    android:gravity="center">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical|center_horizontal"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

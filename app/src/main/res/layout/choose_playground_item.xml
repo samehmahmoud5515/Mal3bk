@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/resultLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f1f9f5"
+    android:layoutDirection="rtl"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/view_choose_playground_item"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/playground_name_tv_"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:text="ملعب النور"
+                android:textColor="#008542"
+                android:textSize="20sp" />
+
+
+            <TextView
+                android:id="@+id/playground_address_tv_"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="أبحر الشماليه-بجوار ابحر الشماليه"
+                android:textColor="#6c6d6c"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:textSize="20sp" />
+
+
+
+
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:id="@+id/date_time_textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:text="1AM-10AM"
+                android:gravity="end"
+                android:textColor="#008542"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:visibility="gone"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/playgroundimage_iv_"
+            android:layout_width="0dp"
+            android:background="@drawable/playgroundphoto"
+            android:layout_height="150dp"
+            android:layout_weight="1" />
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

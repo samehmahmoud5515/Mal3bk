@@ -1,0 +1,247 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/registerGround_framelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/regitration_ground_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f1f9f5"
+        android:layoutDirection="rtl"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:id="@+id/dateLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/date_icon_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center_vertical|left"
+                android:text="&#xf073;"
+                android:textColor="#20945a"
+                android:textSize="17sp" />
+
+
+            <TextView
+                android:id="@+id/second_prompt_regidter_ground"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:text="التاريخ"
+                android:textColor="#20945a"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/select_date_resv_btn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="3"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_with_effect"
+                android:gravity="center"
+                android:text="اختار"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/cityLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/location_icon_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center_vertical|left"
+                android:text="&#xf041;"
+                android:textColor="#20945a"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/third_prompt_regidter_ground"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:text="المدينة"
+                android:textColor="#20945a"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/select_town_resv_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="3"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_with_effect"
+                android:gravity="center"
+                android:text="اختار"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/from_time_icon_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center_vertical|left"
+                android:text="&#xf017;"
+                android:textColor="#20945a"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/from_time_prompt_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:text="من"
+                android:textColor="#20945a"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/select_fromTime_resv_btn"
+                style="@style/button_reserv"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="اختار"
+                android:background="@drawable/rounded_with_effect"
+
+                android:textAllCaps="false"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/to_time_icon_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center"
+                android:text="&#xf017;"
+                android:textColor="#20945a"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/to_time_header_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="left|center_vertical"
+                android:text="الي"
+                android:textColor="#20945a"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/select_toTime_resv_btn"
+                style="@style/button_reserv"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="اختار"
+                android:background="@drawable/rounded_with_effect"
+
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ptypeLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/playground_type_icon_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center_vertical|left"
+                android:text="&#xf1e3;"
+                android:textColor="#20945a"
+                android:textSize="17sp" />
+
+
+            <TextView
+                android:id="@+id/playground_type_header_fragment_register_fround"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:text="النوع"
+                android:textColor="#20945a"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/select_playgroundType_resv_btn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:gravity="center"
+                android:text="اختار"
+                android:background="@drawable/rounded_with_effect"
+
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/fifth_prompt_regidter_ground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/layout_registerground_addcartbtn_bg"
+            android:onClick="viewResult"
+            android:text="ابدا البحث"
+            android:textAllCaps="false"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+</FrameLayout>
+
+
+

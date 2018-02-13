@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/formationchildstyle"
+    android:layoutDirection="rtl"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/lang_tv_mesg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="اختار اللغة"
+        android:textColor="#008542"
+        android:textSize="24sp" />
+
+    <RadioGroup
+        android:id="@+id/lang_radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/arabic_radio_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#008542"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/ar"
+            android:id="@+id/ar_pic"
+            />
+
+        <RadioButton
+            android:id="@+id/english_radio_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#008542"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/en"
+            android:id="@+id/en_pic"
+
+            />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/save_lang_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/get_player_style_btn"
+        android:text="حفظ اللغة"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="24sp" />
+    <Button
+        android:id="@+id/cancel_lan_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/get_player_style_btn"
+        android:text="إلغاء"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="24sp" />
+
+
+</LinearLayout>
